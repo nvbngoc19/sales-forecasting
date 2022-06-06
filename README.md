@@ -1,1 +1,1 @@
-# sales-forecasting
+# Sales Forecasting Model
